@@ -1,0 +1,21 @@
+### api calls for our demoAPI
+
+### hit the top level route
+
+GET http://localhost:3000 HTTP/1.1 
+
+### GET all Students
+
+GET http://localhost:3000/api/blogposts HTTP/1.1
+
+### GET a stuent by ID
+
+GET http://localhost:3000/api/blogposts/21 HTTP/1.1
+
+### GET all users
+
+GET http://localhost:3000/api/users HTTP/1.1
+
+### GET all todos
+
+GET http://localhost:3000/api/todos HTTP/1.1
